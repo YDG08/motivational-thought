@@ -15,13 +15,13 @@ font-family: 'Rubik Doodle Shadow', system-ui;
     color: white;
     text-align: center;
   }
-  
+
   .motivation-img {
     border: 5px solid white;
     width: 100%;
   }
   .figcaption{
-  font-size: 30px;
+  font-size: 20px;
   position: absolute;
   top: 0;
   bottom: 0;
